@@ -47,7 +47,7 @@ export const projects = [
     title: "Shoppy E-Commerce",
     description:
       "Feature-rich e-commerce platform with cart/checkout system and product management",
-    image: "/images/projects/shoppy.png",
+    image: "/images/projects/Shoppy.png",
     tech: ["MERN Stack", "Redux", "Stripe API"],
     links: {
       live: "#",
@@ -58,7 +58,7 @@ export const projects = [
     title: "CodePlayer IDE",
     description:
       "Real-time code editor with live preview and console output functionality",
-    image: "/images/projects/CodePlayer.png",
+    image: "/images/projects/Codeplayer.png",
     tech: ["React", "Tailwind CSS", "CodeMirror"],
     links: {
       live: "#",
